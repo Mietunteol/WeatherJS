@@ -1,0 +1,19 @@
+{
+  "name": "weatherjs",
+  "version": "0.0.0",
+  "description": "[This thing on GitHub Pages](https://mietunteol.github.io/WeatherJS/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/Mietunteol/WeatherJS.git"
+  },
+  "author": "Mietunteol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/Mietunteol/WeatherJS/issues"
+  },
+  "homepage": "https://gitlab.com/Mietunteol/WeatherJS#README"
+}
