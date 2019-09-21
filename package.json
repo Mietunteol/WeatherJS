@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://gitlab.com/Mietunteol/WeatherJS/issues"
   },
-  "homepage": "https://gitlab.com/Mietunteol/WeatherJS#README"
+  "homepage": "https://gitlab.com/Mietunteol/WeatherJS#README",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
