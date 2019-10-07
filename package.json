@@ -17,6 +17,9 @@
   },
   "homepage": "https://gitlab.com/Mietunteol/WeatherJS#README",
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-connect": "^5.7.0",
+    "gulp-debug": "^4.0.0"
   }
 }
